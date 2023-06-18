@@ -1,6 +1,5 @@
 import image from "./images/my-logo.png";
 import twitter from "./images/twitter.svg";
-import linkedin from "./images/linkedin.svg";
 import github from "./images/github.svg";
 import instagram from "./images/instagram.svg";
 import reddit from "./images/reddit.svg";
@@ -30,18 +29,16 @@ function Container() {
       <div className="about content">
         <h4> About Me </h4>
         <p>
-          Occaecat labore aliquip dolor labore Lorem id adipisicing aliqua nisi.
-          Cupidatat ea ullamco proident aliqua voluptate consequat consequat
-          cillum. Elit occaecat irure aute pariatur amet proident eiusmod aliqua
-          enim qui.
+          I am a Computer Science student. I am currently learning React (even
+          though I hate web development). I am created this static page to
+          create a business card thing-y.
         </p>
       </div>
       <div className="interests content">
         <h4> Interests </h4>
         <p>
-          Sunt nisi laborum voluptate magna in pariatur occaecat anim. Mollit
-          eiusmod qui velit do in ipsum. Non ullamco ad consectetur quis ad.
-          Dolor aute do cupidatat ea sunt sunt culpa sint fugiat ullamco.
+          I am interested in coding, reading, watching movies and staring at the
+          wall pointlessly.
         </p>
       </div>
     </div>
