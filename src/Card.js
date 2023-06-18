@@ -27,7 +27,7 @@ function Container() {
   return (
     <div>
       <div className="about content">
-        <h4> About Me </h4>
+        <h3> About Me </h3>
         <p>
           I am a Computer Science student. I am currently learning React (even
           though I hate web development). I am created this static page to
@@ -35,7 +35,7 @@ function Container() {
         </p>
       </div>
       <div className="interests content">
-        <h4> Interests </h4>
+        <h3> Interests </h3>
         <p>
           I am interested in coding, reading, watching movies and staring at the
           wall pointlessly.
